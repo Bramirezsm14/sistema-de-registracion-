@@ -1,0 +1,11 @@
+[
+ {
+  "id": 1,
+  "nombre": "leandro",
+  "apellido": "lugo",
+  "email": "leandro@gmail.com",
+  "contraseña": "$2b$10$iFpg9lc7E5.zuaGjmfDJGuYpI//Id2s9UeCa6kxMEtm5ybDhru9Ra",
+  "rcontraseña": "$2b$10$lBVsgOe5JlVTOMh4.g/AYeE4vJevj7bZlh2l6qjL1LZPaS8PXEhWy",
+  "image": "image-1589500769496.jpg"
+ }
+]
